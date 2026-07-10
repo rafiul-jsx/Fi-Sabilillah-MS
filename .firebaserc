@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fi-sabilillah-app-v2"
+  },
+  "targets": {
+    "fi-sabilillah-app-v2": {
+      "hosting": {
+        "ms": [
+          "fi-sabilillah-ms"
+        ]
+      }
+    }
+  }
+}
