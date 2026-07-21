@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "fi-sabilillah-app-v2"
+  }
+}
